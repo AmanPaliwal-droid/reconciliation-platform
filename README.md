@@ -65,4 +65,4 @@ Visit: http://localhost:8000/
 - Improved customer trust and transparency
 
 ## Author
-[Aman Paliwal]
+Aman Paliwal
