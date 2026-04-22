@@ -1,0 +1,5 @@
+invoice_number,customer_code,customer_name,invoice_date,amount,quantity,product_code,pod_status
+INV-2026-001,CUST001,Reliance Retail,2026-01-15,125000,500,PARACHUTE_200ML,available
+INV-2026-002,CUST001,Reliance Retail,2026-01-20,87500,350,LIVON_100ML,available
+INV-2026-003,CUST002,DMart,2026-01-18,250000,1000,SESA_OIL_500ML,pending
+INV-2026-004,CUST003,Amazon India,2026-01-22,42500,200,PARACHUTE_200ML,available

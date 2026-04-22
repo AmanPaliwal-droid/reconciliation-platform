@@ -1,0 +1,6 @@
+customer_code,customer_name,reference_number,transaction_date,amount,transaction_type,description
+CUST001,Reliance Retail,INV-2026-001,2026-01-20,124500,invoice,Short quantity deduction
+CUST001,Reliance Retail,INV-2026-002,2026-01-25,87500,invoice,Full amount
+CUST001,Reliance Retail,CLM-001,2026-01-22,-500,deduction,Logistics damage claim
+CUST002,DMart,INV-2026-003,2026-01-22,248000,invoice,Price mismatch
+CUST003,Amazon India,INV-2026-004,2026-01-25,42500,invoice,Matched
